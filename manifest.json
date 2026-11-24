@@ -1,0 +1,15 @@
+{
+  "name": "Geldim",
+  "short_name": "Geldim",
+  "description": "İşe geliş saatlerini tek tuşla kaydet",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#2f33a8",
+  "theme_color": "#2f33a8",
+  "lang": "tr",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
